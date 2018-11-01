@@ -23,5 +23,5 @@ $TAR -xvzf csf.tgz && cd csf && sh ./install.sh
 
 # Invoca o editor de texto para edição do arquivo principal /etc/csf/csf.conf
 # É importante a edição do arquivo /etc/csf/csf.allow
-$EDITOR $FILE 
+# $EDITOR $FILE 
 
