@@ -7,6 +7,8 @@
 # Fabio Fraga Machado em 22-10-2018
 # fraga.fabio@gmail.com
 # https://github.com/boinkbr
+# Versao 2 - aplicadas melhorias e uniao com outros scripts
+# Data do commit: 07-03-2019
 ############################################################
 
 URL="https://download.configserver.com/csf.tgz"
